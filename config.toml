@@ -9,6 +9,7 @@ defaultContentLanguageInSubdir = true
 
 [params]
   themeVariant = "netspective"
+  themeVariantSidebarMastheadLogo = "/images/branding/main-masthead-logo-for-dark-bg.png"
   description = "Strategy and Planning"
   author = "Mathieu Cornic"
   showVisitedLinks = true
